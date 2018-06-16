@@ -1,3 +1,5 @@
-# prova.github.io
+# webcommunityukie.github.io
 
-Nulla da dichiarare è solo un esperimento 
+Icon adapted from https://thenounproject.com/term/global-community/986374/
+
+Website based off http://goldsmiths.tech/ 
